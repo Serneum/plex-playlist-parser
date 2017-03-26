@@ -1,7 +1,4 @@
 # Plex Playlist Parser
-A script that parses Plex playlist XML, then copies, converts, and zips up the files
-___
-
 I happen to own a car that lets me plug in a USB drive full of music. I had found that I was often too lazy to update the drive because I didn't feel like looking at my existing Plex playlists, finding each album individually, then copying them off to some other directory before converting FLAC files to MP3 and then zipping everything up. This script was born to automate the whole process for me.
 
 ## Running the Script
