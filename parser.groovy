@@ -1,5 +1,5 @@
 cli = new CliBuilder(
-    usage: 'parser.groovy -h hostname -p port -t token [options]',
+    usage: 'parser.groovy -h <hostname> -l <playlist> -t <token> [options]',
     header: '\nAvailable options (use -help for help):\n',
     footer: '\nNote: This application assumes that you have the ffmpeg command line tool installed.\n'
 )
