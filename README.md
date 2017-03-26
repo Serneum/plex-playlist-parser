@@ -13,7 +13,7 @@ groovy parser.groovy -h <hostname> -l <playlist> -t <token> [options]
 - `-l`, `--playlist` - The name of the playlist you'd like to parse. Required.
 - `-o`, `--output` - The output directory to copy your files into. If unset, uses the directory where you are running the script.
 - `-p` , `--port` - The port for your Plex server. Defaults to 32400.
-- `-t`, `--token` - The Plex token required to access the API. See [https://support.plex.tv/hc/en-us/articles/204059436](Plex Support) for information on how to find your token. Required.
+- `-t`, `--token` - The Plex token required to access the API. See [Plex Support](https://support.plex.tv/hc/en-us/articles/204059436) for information on how to find your token. Required.
 - `-z`, `--zip` - Zip up the copied msuic files and delete the output directory.
 
 ## Assumptions
