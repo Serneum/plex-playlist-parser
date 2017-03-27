@@ -17,6 +17,7 @@ groovy parser.groovy -h <hostname> -l <playlist> -t <token> [options]
 - `-z`, `--zip` - Zip up the copied msuic files and delete the output directory.
 
 ## Assumptions
+- You have ffmpeg installed on your server
 - You are running the script on the same machine as your Plex server
 - You store all of your music in Artist/Album/Track.filetype format
 - ~~You want to convert your FLAC files to MP3~~
